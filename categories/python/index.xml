@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>python on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/categories/python/</link>
+    <description>Recent content in python on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Mon, 20 Apr 2020 16:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Python skill -- split and re.split</title>
+        <link>https://stanley98745.github.io/posts/split_and_re.split/</link>
+        <pubDate>Mon, 20 Apr 2020 16:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Mon, 20 Apr 2020 16:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/split_and_re.split/</guid>
+        <description>split() 用法介紹 str.split(sep=None, maxsplit=-1) 可以指定分隔符號 sep ，將字串進行分割。 maxsplit 用來指定分割的次數。所以總共會得到 maxsplit + 1 個字串。 sep: 不指定，會用空格來區分。 maxsplit: -1 表示不指定</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>split</category>
+            
+          
+            
+              <category>RegExp</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>python skill</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

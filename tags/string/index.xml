@@ -14,13 +14,61 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Apr 2020 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2020 20:20:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/tags/string/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode - 20. Valid Parentheses</title>
+        <link>https://stanley98745.github.io/posts/20.validparentheses/</link>
+        <pubDate>Tue, 21 Apr 2020 20:20:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 21 Apr 2020 20:20:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/20.validparentheses/</guid>
+        <description>題目敘述 Given a string containing just the characters &amp;lsquo;(&#39;, &amp;lsquo;)&#39;, &amp;lsquo;{&#39;, &amp;lsquo;}&#39;, &amp;lsquo;[&amp;rsquo; and &amp;lsquo;]&#39;, determine if the input string is valid. An input string is valid if: Open brackets must be closed by the same type of brackets. Open brackets must be closed in the correct order. Note that an empty string is also considered valid. Example 1: Input: &amp;quot;()&amp;quot; Output: true Example 2: Input: &amp;quot;()[]{}&amp;quot;</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>stack</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python skill -- split and re.split</title>

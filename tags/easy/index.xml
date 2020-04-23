@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>easy on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/tags/easy/</link>
+    <description>Recent content in easy on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 23 Apr 2020 18:38:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/tags/easy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode - 70. Climbing Stairs</title>
+        <link>https://stanley98745.github.io/posts/70.climbingstairs/</link>
+        <pubDate>Thu, 23 Apr 2020 18:38:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Thu, 23 Apr 2020 18:38:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/70.climbingstairs/</guid>
+        <description>題目敘述 題目連結 難度: Easy You are climbing a stair case. It takes n steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top? Note: Given n will be a positive integer. Example 1: Input: 2 Output: 2 Explanation: There are two ways to climb to</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>easy</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode - 20. Valid Parentheses</title>
+        <link>https://stanley98745.github.io/posts/20.validparentheses/</link>
+        <pubDate>Tue, 21 Apr 2020 20:20:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 21 Apr 2020 20:20:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/20.validparentheses/</guid>
+        <description>題目連結 難度: Easy 題目敘述 Given a string containing just the characters &amp;lsquo;(&#39;, &amp;lsquo;)&#39;, &amp;lsquo;{&#39;, &amp;lsquo;}&#39;, &amp;lsquo;[&amp;rsquo; and &amp;lsquo;]&#39;, determine if the input string is valid. An input string is valid if: Open brackets must be closed by the same type of brackets. Open brackets must be closed in the correct order. Note that an empty string is also considered valid. Example 1:</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>stack</category>
+            
+          
+            
+              <category>easy</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

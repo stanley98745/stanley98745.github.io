@@ -14,13 +14,169 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Apr 2020 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2020 12:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>LeetCode - 451. Sort Characters By Frequency</title>
+        <link>https://stanley98745.github.io/posts/451.sortcharactersbyfrequency/</link>
+        <pubDate>Fri, 24 Apr 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Fri, 24 Apr 2020 12:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/451.sortcharactersbyfrequency/</guid>
+        <description>題目敘述 題目連結 難度: Medium Given a string, sort it in decreasing order based on the frequency of characters. Example 1: Input: &amp;quot;tree&amp;quot; Output: &amp;quot;eert&amp;quot; Explanation: &#39;e&#39; appears twice while &#39;r&#39; and &#39;t&#39; both appear once. So &#39;e&#39; must appear before both &#39;r&#39; and &#39;t&#39;. Therefore &amp;quot;eetr&amp;quot; is also a valid answer. Example 2: Input: &amp;quot;cccaaa&amp;quot; Output: &amp;quot;cccaaa&amp;quot; Explanation: Both &#39;c&#39; and &#39;a&#39;</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>medium</category>
+            
+          
+            
+              <category>hash table</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode - 70. Climbing Stairs</title>
+        <link>https://stanley98745.github.io/posts/70.climbingstairs/</link>
+        <pubDate>Thu, 23 Apr 2020 18:38:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Thu, 23 Apr 2020 18:38:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/70.climbingstairs/</guid>
+        <description>題目敘述 題目連結 難度: Easy You are climbing a stair case. It takes n steps to reach to the top. Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top? Note: Given n will be a positive integer. Example 1: Input: 2 Output: 2 Explanation: There are two ways to climb to</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>easy</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode - 20. Valid Parentheses</title>
+        <link>https://stanley98745.github.io/posts/20.validparentheses/</link>
+        <pubDate>Tue, 21 Apr 2020 20:20:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 21 Apr 2020 20:20:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/20.validparentheses/</guid>
+        <description>題目連結 難度: Easy 題目敘述 Given a string containing just the characters &amp;lsquo;(&#39;, &amp;lsquo;)&#39;, &amp;lsquo;{&#39;, &amp;lsquo;}&#39;, &amp;lsquo;[&amp;rsquo; and &amp;lsquo;]&#39;, determine if the input string is valid. An input string is valid if: Open brackets must be closed by the same type of brackets. Open brackets must be closed in the correct order. Note that an empty string is also considered valid. Example 1:</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>stack</category>
+            
+          
+            
+              <category>easy</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python skill -- split and re.split</title>

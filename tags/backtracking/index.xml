@@ -6,9 +6,9 @@
   xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>medium on Stanley&#39;s Blog</title>
-    <link>https://stanley98745.github.io/tags/medium/</link>
-    <description>Recent content in medium on Stanley&#39;s Blog</description>
+    <title>backtracking on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/tags/backtracking/</link>
+    <description>Recent content in backtracking on Stanley&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
@@ -16,7 +16,7 @@
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
     <lastBuildDate>Tue, 28 Apr 2020 20:20:00 +0800</lastBuildDate>
     
-        <atom:link href="https://stanley98745.github.io/tags/medium/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://stanley98745.github.io/tags/backtracking/index.xml" rel="self" type="application/rss+xml" />
     
     
     
@@ -55,58 +55,6 @@
           
             
               <category>medium</category>
-            
-          
-        
-        
-          
-            
-              <category>leetcode</category>
-            
-          
-            
-              <category>python</category>
-            
-          
-        
-        
-          
-            
-              <category>leetcode</category>
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>LeetCode - 451. Sort Characters By Frequency</title>
-        <link>https://stanley98745.github.io/posts/451.sortcharactersbyfrequency/</link>
-        <pubDate>Fri, 24 Apr 2020 12:00:00 +0800</pubDate>
-        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
-        <atom:modified>Fri, 24 Apr 2020 12:00:00 +0800</atom:modified>
-        <guid>https://stanley98745.github.io/posts/451.sortcharactersbyfrequency/</guid>
-        <description>題目敘述 題目連結 難度: Medium Given a string, sort it in decreasing order based on the frequency of characters. Example 1: Input: &amp;quot;tree&amp;quot; Output: &amp;quot;eert&amp;quot; Explanation: &#39;e&#39; appears twice while &#39;r&#39; and &#39;t&#39; both appear once. So &#39;e&#39; must appear before both &#39;r&#39; and &#39;t&#39;. Therefore &amp;quot;eetr&amp;quot; is also a valid answer. Example 2: Input: &amp;quot;cccaaa&amp;quot; Output: &amp;quot;cccaaa&amp;quot; Explanation: Both &#39;c&#39; and &#39;a&#39;</description>
-        
-        <dc:creator>Stanley</dc:creator>
-        
-        
-        
-        
-          
-            
-              <category>leetcode</category>
-            
-          
-            
-              <category>python</category>
-            
-          
-            
-              <category>medium</category>
-            
-          
-            
-              <category>hash table</category>
             
           
         

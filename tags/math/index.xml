@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>math on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/tags/math/</link>
+    <description>Recent content in math on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Wed, 29 Apr 2020 20:20:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/tags/math/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode - 22. Generate Parentheses</title>
+        <link>https://stanley98745.github.io/posts/136.singlenumber/</link>
+        <pubDate>Wed, 29 Apr 2020 20:20:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Wed, 29 Apr 2020 20:20:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/136.singlenumber/</guid>
+        <description>題目連結 難度: Easy 題目敘述 Given a non-empty array of integers, every element appears twice except for one. Find that single one. Note: Your algorithm should have a linear runtime complexity. Could you implement it without using extra memory? Example 1: Input: [2,2,1] Output: 1 Example 2: Input: [4,1,2,1,2] Output: 4 解答 1 2 3 4 class Solution: def singleNumber(self, nums: List[int])</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>math</category>
+            
+          
+            
+              <category>easy</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

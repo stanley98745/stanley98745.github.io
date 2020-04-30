@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>sliding window on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/tags/sliding-window/</link>
+    <description>Recent content in sliding window on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Thu, 30 Apr 2020 20:20:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/tags/sliding-window/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>LeetCode - 22. Generate Parentheses</title>
+        <link>https://stanley98745.github.io/posts/3.longestsubstringwithoutrepeatingcharacters/</link>
+        <pubDate>Thu, 30 Apr 2020 20:20:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Thu, 30 Apr 2020 20:20:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/3.longestsubstringwithoutrepeatingcharacters/</guid>
+        <description>題目連結 難度: Medium 題目敘述 Given a string, find the length of the longest substring without repeating characters. Example 1: Input: &amp;quot;abcabcbb&amp;quot; Output: 3 Explanation: The answer is &amp;quot;abc&amp;quot;, with the length of 3. Example 2: Input: &amp;quot;bbbbb&amp;quot; Output: 1 Explanation: The answer is &amp;quot;b&amp;quot;, with the length of 1. Example 3: Input: &amp;quot;pwwkew&amp;quot; Output: 3 Explanation: The answer is &amp;quot;wke&amp;quot;, with the</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>string</category>
+            
+          
+            
+              <category>sliding window</category>
+            
+          
+            
+              <category>hash table</category>
+            
+          
+            
+              <category>medium</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

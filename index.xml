@@ -44,6 +44,66 @@
 
       
       <item>
+        <title>CS231_n Image Classification - part1</title>
+        <link>https://stanley98745.github.io/posts/imageclassification/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 05 May 2020 12:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imageclassification/</guid>
+        <description>前言 影像分類(Image Classification)主要的作法是將輸入的影像做辨識並且分門別類。這對於電腦視覺的領域來說，是重要且核心的議</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cs231n</category>
+            
+          
+            
+              <category>Image Classification</category>
+            
+          
+            
+              <category>KNN</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>CNN</category>
+            
+          
+            
+              <category>DeepLearning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>LeetCode - 15. 3Sum</title>
         <link>https://stanley98745.github.io/posts/15.3sum/</link>
         <pubDate>Fri, 01 May 2020 20:20:00 +0800</pubDate>

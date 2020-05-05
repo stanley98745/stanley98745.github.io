@@ -14,13 +14,103 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 20:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 12:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>cs231n</title>
+        <link>https://stanley98745.github.io/tags/cs231n/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/cs231n/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Deep learning</title>
+        <link>https://stanley98745.github.io/tags/deep-learning/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/deep-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Image Classification</title>
+        <link>https://stanley98745.github.io/tags/image-classification/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/image-classification/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>KNN</title>
+        <link>https://stanley98745.github.io/tags/knn/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/knn/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://stanley98745.github.io/tags/python/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>array</title>
@@ -65,24 +155,6 @@
         <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
         
         <guid>https://stanley98745.github.io/tags/medium/</guid>
-        <description></description>
-        
-        <dc:creator>Stanley, JunFu Zhang</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>python</title>
-        <link>https://stanley98745.github.io/tags/python/</link>
-        <pubDate>Fri, 01 May 2020 20:20:00 +0800</pubDate>
-        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
-        
-        <guid>https://stanley98745.github.io/tags/python/</guid>
         <description></description>
         
         <dc:creator>Stanley, JunFu Zhang</dc:creator>

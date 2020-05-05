@@ -14,13 +14,67 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Fri, 01 May 2020 20:20:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2020 12:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>CNN</title>
+        <link>https://stanley98745.github.io/categories/cnn/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/categories/cnn/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>cs231_n</title>
+        <link>https://stanley98745.github.io/categories/cs231_n/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/categories/cs231_n/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>DeepLearning</title>
+        <link>https://stanley98745.github.io/categories/deeplearning/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/categories/deeplearning/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
       
       <item>
         <title>leetcode</title>

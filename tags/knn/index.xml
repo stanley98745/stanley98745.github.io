@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>KNN on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/tags/knn/</link>
+    <description>Recent content in KNN on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Tue, 05 May 2020 12:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/tags/knn/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>CS231_n Image Classification - part1</title>
+        <link>https://stanley98745.github.io/posts/imageclassification/</link>
+        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 05 May 2020 12:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imageclassification/</guid>
+        <description>前言 影像分類(Image Classification)主要的作法是將輸入的影像做辨識並且分門別類。這對於電腦視覺的領域來說，是重要且核心的議</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cs231n</category>
+            
+          
+            
+              <category>Image Classification</category>
+            
+          
+            
+              <category>KNN</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>CNN</category>
+            
+          
+            
+              <category>DeepLearning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

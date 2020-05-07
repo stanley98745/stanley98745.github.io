@@ -32,7 +32,7 @@
         <description>前言 當我們訓練完模型，並且想要針對結果來鑑別模型的好壞，這時候我們可以透過一些指標來判定。而在深度學習中，最有名的就是 Precision 跟 Recall ，中文翻譯分別為</description>
         
         <dc:creator>Stanley</dc:creator>
-        
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

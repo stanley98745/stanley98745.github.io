@@ -1206,7 +1206,7 @@
 <meta name="description" content="LeetCode Solving" />
 
 
-<meta name="keywords" content="leetcode,python,string,backtracking,medium">
+<meta name="keywords" content="leetcode,python">
 
 <meta name="created" content="2020-04-28T20:20:00&#43;0800">
 <meta name="modified" content="2020-04-28T20:20:00&#43;0800">
@@ -1262,7 +1262,7 @@
     "dateModified": "2020-04-28T20:20:00+08:00",
     "url" : "https://stanley98745.github.io/posts/22.generateparentheses/",
     "description": "LeetCode Solving",
-    "keywords": ["leetcode","python","string","backtracking","medium"],
+    "keywords": ["leetcode","python"],
     "author": {
       "@type": "Person",
       "name": "Stanley"
@@ -1592,15 +1592,9 @@ if (!doNotTrack) {
   🏷️
   
 
-  <li><a href="https://stanley98745.github.io/tags/python/" class="single__tag" title="python">#python</a></li>
-
   <li><a href="https://stanley98745.github.io/tags/leetcode/" class="single__tag" title="leetcode">#leetcode</a></li>
 
-  <li><a href="https://stanley98745.github.io/tags/medium/" class="single__tag" title="medium">#medium</a></li>
-
-  <li><a href="https://stanley98745.github.io/tags/string/" class="single__tag" title="string">#string</a></li>
-
-  <li><a href="https://stanley98745.github.io/tags/backtracking/" class="single__tag" title="backtracking">#backtracking</a></li>
+  <li><a href="https://stanley98745.github.io/tags/python/" class="single__tag" title="python">#python</a></li>
 
 </ul>
     </div>
@@ -1620,7 +1614,7 @@ if (!doNotTrack) {
   &quot;()(())&quot;,
   &quot;()()()&quot;
 ]
-</code></pre><p><br/><br/><br/><br/><br/></p>
+</code></pre><p><br/><br/></p>
 <h3 id="解答">解答</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1651,26 +1645,26 @@ if (!doNotTrack) {
 <td class="lntd">
 <pre class="chroma"><code class="language-Python" data-lang="Python"><span class="k">class</span> <span class="nc">Solution</span><span class="p">:</span>
     <span class="k">def</span> <span class="nf">generateParenthesis</span><span class="p">(</span><span class="bp">self</span><span class="p">,</span> <span class="n">n</span><span class="p">:</span> <span class="nb">int</span><span class="p">)</span> <span class="o">-&gt;</span> <span class="n">List</span><span class="p">[</span><span class="nb">str</span><span class="p">]:</span>
-        
+
         <span class="n">res</span> <span class="o">=</span> <span class="p">[]</span>
-        
+
         <span class="k">def</span> <span class="nf">generator</span><span class="p">(</span><span class="n">left</span><span class="p">,</span> <span class="n">right</span><span class="p">,</span> <span class="n">curr</span><span class="p">):</span>
-            
+
             <span class="k">if</span> <span class="n">left</span> <span class="o">&gt;</span> <span class="n">right</span><span class="p">:</span>
                 <span class="k">return</span>
-            
+
             <span class="k">if</span> <span class="ow">not</span> <span class="p">(</span><span class="n">left</span><span class="o">&gt;=</span><span class="mi">0</span> <span class="ow">and</span> <span class="n">right</span><span class="o">&gt;=</span><span class="mi">0</span><span class="p">):</span>
                 <span class="k">return</span>
-            
+
             <span class="k">if</span> <span class="n">left</span> <span class="ow">or</span> <span class="n">right</span><span class="p">:</span>
                 <span class="n">generator</span><span class="p">(</span><span class="n">left</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">right</span><span class="p">,</span> <span class="n">curr</span> <span class="o">+</span> <span class="s1">&#39;(&#39;</span><span class="p">)</span>
                 <span class="n">generator</span><span class="p">(</span><span class="n">left</span><span class="p">,</span> <span class="n">right</span><span class="o">-</span><span class="mi">1</span><span class="p">,</span> <span class="n">curr</span> <span class="o">+</span> <span class="s1">&#39;)&#39;</span><span class="p">)</span>
-            
+
             <span class="k">else</span><span class="p">:</span>
                 <span class="n">res</span><span class="o">.</span><span class="n">append</span><span class="p">(</span><span class="n">curr</span><span class="p">)</span>
-        
+
         <span class="n">generator</span><span class="p">(</span><span class="n">n</span><span class="p">,</span> <span class="n">n</span><span class="p">,</span> <span class="s2">&#34;&#34;</span><span class="p">)</span>
-        
+
         <span class="k">return</span> <span class="n">res</span>
 </code></pre></td></tr></table>
 </div>
@@ -1700,7 +1694,7 @@ if (!doNotTrack) {
 <li>
 <p>此外，要確保左與右括號的數量都大於等於零，如果不是，則return。<br />
 因為我們後面會一直傳入 left-1 跟 right-1 的操作。<br />
-有可能會造成數量小於0。 <br />
+有可能會造成數量小於0。<br />
 加入這個判斷式可以確保當傳入的數量小於0，則不要進行任何下一步的操作。<br />
 <br/></p>
 <div class="highlight"><div class="chroma">
@@ -1743,6 +1737,7 @@ if (!doNotTrack) {
 </div></li>
 </ol>
 <br/>
+
     </article>
     
     <script>
@@ -1809,7 +1804,7 @@ if (!doNotTrack) {
       
     
       
-        <a href="https://twitter.com/intent/tweet?text=LeetCode%20-%2022.%20Generate%20Parentheses&url=https%3a%2f%2fstanley98745.github.io%2fposts%2f22.generateparentheses%2f&hashtags=leetcode%2cpython%2cstring%2cbacktracking%2cmedium&via=Stanley" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=LeetCode%20-%2022.%20Generate%20Parentheses&url=https%3a%2f%2fstanley98745.github.io%2fposts%2f22.generateparentheses%2f&hashtags=leetcode%2cpython&via=Stanley" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -1943,11 +1938,11 @@ if (!doNotTrack) {
         </li>
         
         <li>
-          <a href="/posts/20.validparentheses/" class="related__link">LeetCode - 20. Valid Parentheses</a>
+          <a href="/posts/70.climbingstairs/" class="related__link">LeetCode - 70. Climbing Stairs</a>
         </li>
         
         <li>
-          <a href="/posts/70.climbingstairs/" class="related__link">LeetCode - 70. Climbing Stairs</a>
+          <a href="/posts/20.validparentheses/" class="related__link">LeetCode - 20. Valid Parentheses</a>
         </li>
         
         <li>

@@ -44,6 +44,130 @@
 
       
       <item>
+        <title>Precision and Recall</title>
+        <link>https://stanley98745.github.io/posts/precisionrecall/</link>
+        <pubDate>Sat, 09 May 2020 18:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Sat, 09 May 2020 18:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/precisionrecall/</guid>
+        <description>前言 當我們訓練完模型，並且想要針對結果來鑑別模型的好壞，這時候我們可以透過一些指標來判定。而在深度學習中，最有名的就是 Precision 跟 Recall ，中文翻譯分別為</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode - 383. Ransom Note</title>
+        <link>https://stanley98745.github.io/posts/383.ransomnote/</link>
+        <pubDate>Fri, 08 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Fri, 08 May 2020 15:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/383.ransomnote/</guid>
+        <description>題目敘述 題目連結 難度: Easy Given an arbitrary ransom note string and another string containing letters from all the magazines, write a function that will return true if the ransom note can be constructed from the magazines ; otherwise, it will return false. Each letter in the magazine string can only be used once in your ransom note. Example 1: Input: ransomNote =</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>LeetCode - 283. Move Zeroes</title>
+        <link>https://stanley98745.github.io/posts/283.movezeroes/</link>
+        <pubDate>Thu, 07 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Thu, 07 May 2020 15:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/283.movezeroes/</guid>
+        <description>題目敘述 題目連結 難度: Easy Given an array nums, write a function to move all 0&#39;s to the end of it while maintaining the relative order of the non-zero elements. Example : Input: [0,1,0,3,12] Output: [1,3,12,0,0] Note: You must do this in-place without making a copy of the array. Minimize the total number of operations. 解答 1 2 3 4 5 6</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>leetcode</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>CS231_n Image Classification - part1</title>
         <link>https://stanley98745.github.io/posts/imageclassification/</link>
         <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
@@ -90,7 +214,7 @@
             
           
             
-              <category>DeepLearning</category>
+              <category>Deep Learning</category>
             
           
         
@@ -98,6 +222,10 @@
           
             
               <category>cs231_n</category>
+            
+          
+            
+              <category>Deep Learning</category>
             
           
         
@@ -124,18 +252,6 @@
           
             
               <category>python</category>
-            
-          
-            
-              <category>array</category>
-            
-          
-            
-              <category>two pointers</category>
-            
-          
-            
-              <category>medium</category>
             
           
         
@@ -182,22 +298,6 @@
               <category>python</category>
             
           
-            
-              <category>string</category>
-            
-          
-            
-              <category>sliding window</category>
-            
-          
-            
-              <category>hash table</category>
-            
-          
-            
-              <category>medium</category>
-            
-          
         
         
           
@@ -240,14 +340,6 @@
           
             
               <category>python</category>
-            
-          
-            
-              <category>math</category>
-            
-          
-            
-              <category>easy</category>
             
           
         
@@ -294,18 +386,6 @@
               <category>python</category>
             
           
-            
-              <category>string</category>
-            
-          
-            
-              <category>backtracking</category>
-            
-          
-            
-              <category>medium</category>
-            
-          
         
         
           
@@ -348,14 +428,6 @@
           
             
               <category>python</category>
-            
-          
-            
-              <category>medium</category>
-            
-          
-            
-              <category>hash table</category>
             
           
         
@@ -402,10 +474,6 @@
               <category>python</category>
             
           
-            
-              <category>easy</category>
-            
-          
         
         
           
@@ -448,18 +516,6 @@
           
             
               <category>python</category>
-            
-          
-            
-              <category>string</category>
-            
-          
-            
-              <category>stack</category>
-            
-          
-            
-              <category>easy</category>
             
           
         
@@ -554,18 +610,6 @@
               <category>osx</category>
             
           
-            
-              <category>mac</category>
-            
-          
-            
-              <category>github.io</category>
-            
-          
-            
-              <category>website</category>
-            
-          
         
         
           
@@ -606,18 +650,6 @@
               <category>osx</category>
             
           
-            
-              <category>mac</category>
-            
-          
-            
-              <category>github.io</category>
-            
-          
-            
-              <category>website</category>
-            
-          
         
         
           
@@ -656,18 +688,6 @@
           
             
               <category>osx</category>
-            
-          
-            
-              <category>mac</category>
-            
-          
-            
-              <category>github.io</category>
-            
-          
-            
-              <category>website</category>
             
           
         

@@ -14,13 +14,49 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 05 May 2020 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2020 18:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/tags/deep-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Precision and Recall</title>
+        <link>https://stanley98745.github.io/posts/precisionrecall/</link>
+        <pubDate>Sat, 09 May 2020 18:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Sat, 09 May 2020 18:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/precisionrecall/</guid>
+        <description>前言 當我們訓練完模型，並且想要針對結果來鑑別模型的好壞，這時候我們可以透過一些指標來判定。而在深度學習中，最有名的就是 Precision 跟 Recall ，中文翻譯分別為</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>CS231_n Image Classification - part1</title>
@@ -69,7 +105,7 @@
             
           
             
-              <category>DeepLearning</category>
+              <category>Deep Learning</category>
             
           
         
@@ -77,6 +113,10 @@
           
             
               <category>cs231_n</category>
+            
+          
+            
+              <category>Deep Learning</category>
             
           
         

@@ -1206,7 +1206,7 @@
 <meta name="description" content="LeetCode Solving" />
 
 
-<meta name="keywords" content="leetcode,python,math,easy">
+<meta name="keywords" content="leetcode,python">
 
 <meta name="created" content="2020-04-29T20:20:00&#43;0800">
 <meta name="modified" content="2020-04-29T20:20:00&#43;0800">
@@ -1262,7 +1262,7 @@
     "dateModified": "2020-04-29T20:20:00+08:00",
     "url" : "https://stanley98745.github.io/posts/136.singlenumber/",
     "description": "LeetCode Solving",
-    "keywords": ["leetcode","python","math","easy"],
+    "keywords": ["leetcode","python"],
     "author": {
       "@type": "Person",
       "name": "Stanley"
@@ -1592,13 +1592,9 @@ if (!doNotTrack) {
   🏷️
   
 
-  <li><a href="https://stanley98745.github.io/tags/python/" class="single__tag" title="python">#python</a></li>
-
   <li><a href="https://stanley98745.github.io/tags/leetcode/" class="single__tag" title="leetcode">#leetcode</a></li>
 
-  <li><a href="https://stanley98745.github.io/tags/easy/" class="single__tag" title="easy">#easy</a></li>
-
-  <li><a href="https://stanley98745.github.io/tags/math/" class="single__tag" title="math">#math</a></li>
+  <li><a href="https://stanley98745.github.io/tags/python/" class="single__tag" title="python">#python</a></li>
 
 </ul>
     </div>
@@ -1619,7 +1615,7 @@ Output: 1
 <p><strong>Example 2:</strong></p>
 <pre><code>Input: [4,1,2,1,2]
 Output: 4
-</code></pre><p><br/><br/><br/><br/><br/></p>
+</code></pre><p><br/><br/></p>
 <h3 id="解答">解答</h3>
 <div class="highlight"><div class="chroma">
 <table class="lntable"><tr><td class="lntd">
@@ -1724,24 +1720,74 @@ Output: 4
 </tr>
 </tbody>
 </table>
-<p><br/><br/><br/></p>
+<p><br/><br/></p>
 <p>那如果遇到數字又是怎麼運作的呢?</p>
 <p>我們用2, 3來做示範，並將十進位數字轉成二進位</p>
 <br/>
-<p>|  number   |  0  |  0  |  0  |<br />
-|:&mdash;:|:&mdash;:|:&mdash;:||:&mdash;:|<br />
-|  2  |  0  |  1  |  0  |<br />
-|  3  |  0  |  1  |  1  |<br />
-|  <strong>result</strong>  |  0  |  0  |  1  |</p>
+<table>
+<thead>
+<tr>
+<th align="center">number</th>
+<th align="center">0</th>
+<th align="center">0</th>
+<th align="center">0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">3</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">1</td>
+</tr>
+<tr>
+<td align="center"><strong>result</strong></td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">1</td>
+</tr>
+</tbody>
+</table>
 <br/>
 <p>所以 <strong>2 ^ 3</strong> 就會是數字1 (轉換成十進位的結果)</p>
 <p><br/><br/></p>
 <p>那 <strong>2 ^ 2</strong> 呢?</p>
-<p>|  number   |  0  |  0  |  0  |<br />
-|:&mdash;:|:&mdash;:|:&mdash;:||:&mdash;:|<br />
-|  2  |  0  |  1  |  0  |<br />
-|  2  |  0  |  1  |  0  |<br />
-|  <strong>result</strong>  |  0  |  0  |  0  |</p>
+<table>
+<thead>
+<tr>
+<th align="center">number</th>
+<th align="center">0</th>
+<th align="center">0</th>
+<th align="center">0</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center">2</td>
+<td align="center">0</td>
+<td align="center">1</td>
+<td align="center">0</td>
+</tr>
+<tr>
+<td align="center"><strong>result</strong></td>
+<td align="center">0</td>
+<td align="center">0</td>
+<td align="center">0</td>
+</tr>
+</tbody>
+</table>
 <p>所以 <strong>2 ^ 2</strong> 就會是數字0 (轉換成十進位的結果)</p>
 <p>而XOR的性質如下</p>
 <ul>
@@ -1871,7 +1917,7 @@ Output: 4
       
     
       
-        <a href="https://twitter.com/intent/tweet?text=LeetCode%20-%20136.%20Single%20Number&url=https%3a%2f%2fstanley98745.github.io%2fposts%2f136.singlenumber%2f&hashtags=leetcode%2cpython%2cmath%2ceasy&via=Stanley" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
+        <a href="https://twitter.com/intent/tweet?text=LeetCode%20-%20136.%20Single%20Number&url=https%3a%2f%2fstanley98745.github.io%2fposts%2f136.singlenumber%2f&hashtags=leetcode%2cpython&via=Stanley" title="Twitter" aria-label="Twitter Share Button" class="donation__item" target="_blank" rel="noreferrer" data-type="share">
           <svg data-name="twitter" enable-background="new 0 0 24 24" viewBox="0 0 24 24" width="35" height="35" fill="currentColor" xmlns="http://www.w3.org/2000/svg"><path d="m21.534 7.113c.976-.693 1.797-1.558 2.466-2.554v-.001c-.893.391-1.843.651-2.835.777 1.02-.609 1.799-1.566 2.165-2.719-.951.567-2.001.967-3.12 1.191-.903-.962-2.19-1.557-3.594-1.557-2.724 0-4.917 2.211-4.917 4.921 0 .39.033.765.114 1.122-4.09-.2-7.71-2.16-10.142-5.147-.424.737-.674 1.58-.674 2.487 0 1.704.877 3.214 2.186 4.089-.791-.015-1.566-.245-2.223-.606v.054c0 2.391 1.705 4.377 3.942 4.835-.401.11-.837.162-1.29.162-.315 0-.633-.018-.931-.084.637 1.948 2.447 3.381 4.597 3.428-1.674 1.309-3.8 2.098-6.101 2.098-.403 0-.79-.018-1.177-.067 2.18 1.405 4.762 2.208 7.548 2.208 8.683 0 14.342-7.244 13.986-14.637z"/></svg>
         </a>
       
@@ -2001,19 +2047,19 @@ Output: 4
     <ul class="related-ul">
         
         <li>
-          <a href="/posts/70.climbingstairs/" class="related__link">LeetCode - 70. Climbing Stairs</a>
-        </li>
-        
-        <li>
-          <a href="/posts/20.validparentheses/" class="related__link">LeetCode - 20. Valid Parentheses</a>
-        </li>
-        
-        <li>
           <a href="/posts/22.generateparentheses/" class="related__link">LeetCode - 22. Generate Parentheses</a>
         </li>
         
         <li>
           <a href="/posts/451.sortcharactersbyfrequency/" class="related__link">LeetCode - 451. Sort Characters By Frequency</a>
+        </li>
+        
+        <li>
+          <a href="/posts/70.climbingstairs/" class="related__link">LeetCode - 70. Climbing Stairs</a>
+        </li>
+        
+        <li>
+          <a href="/posts/20.validparentheses/" class="related__link">LeetCode - 20. Valid Parentheses</a>
         </li>
         
         <li>

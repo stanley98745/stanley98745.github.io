@@ -14,13 +14,53 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Mon, 20 Apr 2020 16:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2020 12:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/series/python-skill/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>Python skill -- Pathlib</title>
+        <link>https://stanley98745.github.io/posts/pathlib/</link>
+        <pubDate>Tue, 12 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 12 May 2020 12:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/pathlib/</guid>
+        <description>目錄、路徑 獲取Home目錄 1 2 3 4 5 6 7 8 9 from pathlib import Path Path.home() # on Windows output: WindowsPath(&amp;#39;C:/Users/stanley&amp;#39;) # on Linux output: PosixPath(&amp;#39;/home/stanley&amp;#39;) 獲取當前目錄 1 2 3 4 5 6 7 8 9 from pathlib import Path Path.cwd() # on Windows output: WindowsPath(&amp;#39;C:/Users/stanley/mypathlib&amp;#39;) # on Linux output: PosixPath(&amp;#39;/home/stanley/mypathlib&amp;#39;) 獲取上</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Pathlib</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>python skill</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>Python skill -- split and re.split</title>

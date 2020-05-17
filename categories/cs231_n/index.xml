@@ -14,13 +14,77 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Tue, 05 May 2020 12:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 15:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/categories/cs231_n/index.xml" rel="self" type="application/rss+xml" />
     
     
     
 
+      
+      <item>
+        <title>CS231_n Image Classification - part2</title>
+        <link>https://stanley98745.github.io/posts/imageclassificationpart2/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Sat, 16 May 2020 15:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imageclassificationpart2/</guid>
+        <description>由前一篇文章Part1，我們發現KNN並無法有效地處理影像的問題。主要有兩個問題： classifier 必須_儲存_所有 training data，所以需要大量的儲存空間。 分類</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cs231n</category>
+            
+          
+            
+              <category>Image Classification</category>
+            
+          
+            
+              <category>Linear Classification</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>CNN</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+      </item>
       
       <item>
         <title>CS231_n Image Classification - part1</title>

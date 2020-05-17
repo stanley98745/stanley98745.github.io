@@ -4,41 +4,121 @@
   
   <url>
     <loc>https://stanley98745.github.io/categories/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/categories/cnn/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/series/cs231_n/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/categories/cs231_n/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/posts/imageclassificationpart2/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/tags/cs231n/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/series/deep-learning/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/categories/deep-learning/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/tags/deep-learning/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/tags/image-classification/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/tags/linear-classification/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/posts/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stanley98745.github.io/posts/precisionrecall/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <loc>https://stanley98745.github.io/tags/python/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/series/</loc>
-    <lastmod>2020-05-09T18:00:00+08:00</lastmod>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
   </url>
   
   <url>
     <loc>https://stanley98745.github.io/tags/</loc>
+    <lastmod>2020-05-16T15:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/posts/imagegradient/</loc>
+    <lastmod>2020-05-15T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/tags/image-processing/</loc>
+    <lastmod>2020-05-15T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/series/image-processing/</loc>
+    <lastmod>2020-05-15T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/categories/image-processing/</loc>
+    <lastmod>2020-05-15T18:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/tags/pathlib/</loc>
+    <lastmod>2020-05-12T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/categories/python/</loc>
+    <lastmod>2020-05-12T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/series/python-skill/</loc>
+    <lastmod>2020-05-12T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/posts/pathlib/</loc>
+    <lastmod>2020-05-12T12:00:00+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://stanley98745.github.io/posts/precisionrecall/</loc>
     <lastmod>2020-05-09T18:00:00+08:00</lastmod>
   </url>
   
@@ -63,47 +143,12 @@
   </url>
   
   <url>
-    <loc>https://stanley98745.github.io/tags/python/</loc>
-    <lastmod>2020-05-08T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/categories/python/</loc>
-    <lastmod>2020-05-08T15:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stanley98745.github.io/posts/283.movezeroes/</loc>
     <lastmod>2020-05-07T15:00:00+08:00</lastmod>
   </url>
   
   <url>
-    <loc>https://stanley98745.github.io/categories/cnn/</loc>
-    <lastmod>2020-05-05T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/series/cs231_n/</loc>
-    <lastmod>2020-05-05T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/categories/cs231_n/</loc>
-    <lastmod>2020-05-05T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://stanley98745.github.io/posts/imageclassification/</loc>
-    <lastmod>2020-05-05T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/tags/cs231n/</loc>
-    <lastmod>2020-05-05T12:00:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/tags/image-classification/</loc>
     <lastmod>2020-05-05T12:00:00+08:00</lastmod>
   </url>
   
@@ -145,11 +190,6 @@
   <url>
     <loc>https://stanley98745.github.io/posts/20.validparentheses/</loc>
     <lastmod>2020-04-21T20:20:00+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://stanley98745.github.io/series/python-skill/</loc>
-    <lastmod>2020-04-20T16:00:00+08:00</lastmod>
   </url>
   
   <url>

@@ -14,7 +14,7 @@
     <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
     <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
     <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
-    <lastBuildDate>Sat, 09 May 2020 18:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2020 15:00:00 +0800</lastBuildDate>
     
         <atom:link href="https://stanley98745.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -23,12 +23,120 @@
 
       
       <item>
+        <title>cs231n</title>
+        <link>https://stanley98745.github.io/tags/cs231n/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/cs231n/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Deep learning</title>
         <link>https://stanley98745.github.io/tags/deep-learning/</link>
-        <pubDate>Sat, 09 May 2020 18:00:00 +0800</pubDate>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
         <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
         
         <guid>https://stanley98745.github.io/tags/deep-learning/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Image Classification</title>
+        <link>https://stanley98745.github.io/tags/image-classification/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/image-classification/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Linear Classification</title>
+        <link>https://stanley98745.github.io/tags/linear-classification/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/linear-classification/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://stanley98745.github.io/tags/python/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Image Processing</title>
+        <link>https://stanley98745.github.io/tags/image-processing/</link>
+        <pubDate>Fri, 15 May 2020 18:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/image-processing/</guid>
+        <description></description>
+        
+        <dc:creator>Stanley, JunFu Zhang</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Pathlib</title>
+        <link>https://stanley98745.github.io/tags/pathlib/</link>
+        <pubDate>Tue, 12 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        
+        <guid>https://stanley98745.github.io/tags/pathlib/</guid>
         <description></description>
         
         <dc:creator>Stanley, JunFu Zhang</dc:creator>
@@ -47,60 +155,6 @@
         <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
         
         <guid>https://stanley98745.github.io/tags/leetcode/</guid>
-        <description></description>
-        
-        <dc:creator>Stanley, JunFu Zhang</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>python</title>
-        <link>https://stanley98745.github.io/tags/python/</link>
-        <pubDate>Fri, 08 May 2020 15:00:00 +0800</pubDate>
-        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
-        
-        <guid>https://stanley98745.github.io/tags/python/</guid>
-        <description></description>
-        
-        <dc:creator>Stanley, JunFu Zhang</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>cs231n</title>
-        <link>https://stanley98745.github.io/tags/cs231n/</link>
-        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
-        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
-        
-        <guid>https://stanley98745.github.io/tags/cs231n/</guid>
-        <description></description>
-        
-        <dc:creator>Stanley, JunFu Zhang</dc:creator>
-        
-        
-        
-        
-        
-        
-      </item>
-      
-      <item>
-        <title>Image Classification</title>
-        <link>https://stanley98745.github.io/tags/image-classification/</link>
-        <pubDate>Tue, 05 May 2020 12:00:00 +0800</pubDate>
-        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
-        
-        <guid>https://stanley98745.github.io/tags/image-classification/</guid>
         <description></description>
         
         <dc:creator>Stanley, JunFu Zhang</dc:creator>

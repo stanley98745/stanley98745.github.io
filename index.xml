@@ -44,6 +44,146 @@
 
       
       <item>
+        <title>CS231_n Image Classification - part2</title>
+        <link>https://stanley98745.github.io/posts/imageclassificationpart2/</link>
+        <pubDate>Sat, 16 May 2020 15:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Sat, 16 May 2020 15:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imageclassificationpart2/</guid>
+        <description>由前一篇文章Part1，我們發現KNN並無法有效地處理影像的問題。主要有兩個問題： classifier 必須_儲存_所有 training data，所以需要大量的儲存空間。 分類</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>cs231n</category>
+            
+          
+            
+              <category>Image Classification</category>
+            
+          
+            
+              <category>Linear Classification</category>
+            
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Deep learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>CNN</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+        
+          
+            
+              <category>cs231_n</category>
+            
+          
+            
+              <category>Deep Learning</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Image Gradient</title>
+        <link>https://stanley98745.github.io/posts/imagegradient/</link>
+        <pubDate>Fri, 15 May 2020 18:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Fri, 15 May 2020 18:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imagegradient/</guid>
+        <description>Gradient 翻譯為梯度，也就是函數在某個方向上的變化率。 而Image Gradient指的就是影像的顏色或是強度，沿著某個方向的變化程度。 透過Image</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Python skill -- Pathlib</title>
+        <link>https://stanley98745.github.io/posts/pathlib/</link>
+        <pubDate>Tue, 12 May 2020 12:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Tue, 12 May 2020 12:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/pathlib/</guid>
+        <description>目錄、路徑 獲取Home目錄 1 2 3 4 5 6 7 8 9 from pathlib import Path Path.home() # on Windows output: WindowsPath(&amp;#39;C:/Users/stanley&amp;#39;) # on Linux output: PosixPath(&amp;#39;/home/stanley&amp;#39;) 獲取當前目錄 1 2 3 4 5 6 7 8 9 from pathlib import Path Path.cwd() # on Windows output: WindowsPath(&amp;#39;C:/Users/stanley/mypathlib&amp;#39;) # on Linux output: PosixPath(&amp;#39;/home/stanley/mypathlib&amp;#39;) 獲取上</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+            
+              <category>Pathlib</category>
+            
+          
+        
+        
+          
+            
+              <category>python</category>
+            
+          
+        
+        
+          
+            
+              <category>python skill</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Precision and Recall</title>
         <link>https://stanley98745.github.io/posts/precisionrecall/</link>
         <pubDate>Sat, 09 May 2020 18:00:00 +0800</pubDate>

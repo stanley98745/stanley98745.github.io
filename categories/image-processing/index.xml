@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Image Processing on Stanley&#39;s Blog</title>
+    <link>https://stanley98745.github.io/categories/image-processing/</link>
+    <description>Recent content in Image Processing on Stanley&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>there801021@gmail.com (Stanley, JunFu Zhang)</managingEditor>
+    <webMaster>there801021@gmail.com (Stanley, JunFu Zhang)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved.</copyright>
+    <lastBuildDate>Fri, 15 May 2020 18:00:00 +0800</lastBuildDate>
+    
+        <atom:link href="https://stanley98745.github.io/categories/image-processing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Image Gradient</title>
+        <link>https://stanley98745.github.io/posts/imagegradient/</link>
+        <pubDate>Fri, 15 May 2020 18:00:00 +0800</pubDate>
+        <author>there801021@gmail.com (Stanley, JunFu Zhang)</author>
+        <atom:modified>Fri, 15 May 2020 18:00:00 +0800</atom:modified>
+        <guid>https://stanley98745.github.io/posts/imagegradient/</guid>
+        <description>Gradient 翻譯為梯度，也就是函數在某個方向上的變化率。 而Image Gradient指的就是影像的顏色或是強度，沿著某個方向的變化程度。 透過Image</description>
+        
+        <dc:creator>Stanley</dc:creator>
+        <media:content url="https://stanley98745.github.io/images/feature2/mathbook.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+        
+          
+            
+              <category>Image Processing</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
